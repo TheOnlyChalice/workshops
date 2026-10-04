@@ -4,11 +4,6 @@ Solo submission for the **02-notice-board Friday Weekend Challenge** (fullstack-
 
 A simple notice board where users can create, view, and delete notices. The React frontend is hosted on Amazon S3 and calls a Python Lambda function through API Gateway, which stores notices in MongoDB Atlas.
 
-## Live demo
-
-- Frontend (S3 website endpoint): _TODO – add after deployment_
-- API (API Gateway invoke URL): _TODO – add after deployment_
-
 ## Folder contents
 
 | Path | What it is |
